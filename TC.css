@@ -1,0 +1,90 @@
+#h1 {
+    font-size: 25px;
+
+}
+
+#role {
+    font-size: 18px;
+
+}
+
+#val1,
+#val2 {
+    font-size: 20px;
+}
+
+
+#calc {
+    font-size: 20px;
+    /* margin-left: 45px; */
+    border-radius: 5px;
+    border-style: none;
+    background-color: white;
+    color: black;
+    border: 2px solid;
+    padding: 5px;
+
+}
+
+#inp_bill {
+    font-size: 20px;
+}
+
+#inp_bill1 {
+    font-size: 25px;
+}
+
+#val3,
+#val4,
+#mem {
+    font-size: 20px;
+}
+
+#calc1 {
+    font-size: 20px;
+    /* margin-left: 45px; */
+    border-radius: 5px;
+    border-style: none;
+    background-color: white;
+    color: black;
+    border: 2px solid;
+    padding: 5px;
+
+}
+
+.all {
+    border: 2px solid black;
+    width: 350px;
+    padding: 20px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    /* height: 350px; */
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+
+
+}
+
+.one {
+    border: 2px solid black;
+    width: 350px;
+    padding: 20px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+body {
+    justify-self: center;
+    background-image: url(pexels-disha-sheta-596631-3521353.jpg);
+    background-size: cover;
+
+}
+
+#head {
+    justify-self: center;
+    background-color: beige;
+    padding: 10px;
+    border-radius: 20px;
+}
